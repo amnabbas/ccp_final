@@ -106,7 +106,7 @@ img {
   
   .grid-container {
       display: grid;
-      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr;
       grid-template-rows: 1fr;
       align-items: start;
   
@@ -150,7 +150,7 @@ img {
   
     .grid-container {
       display: grid;
-      grid-template-columns: 85%;
+      grid-template-columns: 1fr 1fr;
       justify-content: center;
       grid-template-rows: auto;
       align-items: start;
@@ -185,7 +185,7 @@ img {
   
     .grid-container {
       display: grid;
-      grid-template-columns: 85%;
+      grid-template-columns: 1fr 1fr 1fr;
       justify-content: center;
       grid-template-rows: auto;
       align-items: start;
